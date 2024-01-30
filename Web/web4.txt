@@ -1,0 +1,87 @@
+<html>
+<head>
+<style>
+a {
+  color:black;
+}
+body{background-color:black;font-size:300%;font-family:courier;}
+</style>
+</head>
+<body>
+<table width="100%"height="6">
+<tr>
+<td width="40%" align="right"><img src="C:\Users\LENOVO\Downloads\shop12.jpg"width="20%"height="10%"></td>
+<td width="60%"align="left"><h1 style="color:orange;"><font size=52px><b>ORANGE</h1></b>
+</table>
+<table  width="100%">
+<tr>
+<td rowspan=" 3" width="50%"><img src="C:\Users\LENOVO\Downloads\shop4.jpg"width="700" height="500"></td>
+<td ><h2><background-color:black;font-size:300%;><a href="file:///C:/Users/LENOVO/Desktop/programs/women.html"><link rel="stylesheet" href="h2.css" >WOMEN</h2></td>
+</tr>
+<tr>
+<td><h2><a href="file:///C:/Users/LENOVO/Desktop/programs/men.html"><link rel="stylesheet" href="h2.css">MEN</h2></td>
+</tr>
+<tr>
+<td><h2><a href="C:/Users/LENOVO/Desktop/programs/kids.html"><link rel="stylesheet" href="h2.css">KIDS</h2></td></th>
+</tr>
+</table>
+</body>
+</html>
+Women.html
+<html>
+<head>
+<body>
+<h1>
+<style>body{background-color:orange;font-size:300%;font-family:courier;}
+</style>
+<center>WOMEN</center></h1>
+<table width="100%">
+<tr>
+<td width="50%" align="right"><img src="C:\Users\LENOVO\Downloads\dress.jpg"height="80%"width="100%"></td>
+<td width="50%" align="left">
+<img src="C:\Users\LENOVO\Downloads\dress2.jpg"height="115%"width="95%"></td>
+</tr>
+</table>
+</body>
+</head>
+</html>
+Men.html
+<html>
+<head>
+<body>
+<h1>
+<style>body{background-color:orange;font-size:300%;font-family:courier;}
+</style><center>MEN</center></h1>
+<table width="100%">
+<tr>
+<td width="50%" align="right"><img src="C:\Users\LENOVO\Downloads\men1.jpg"height="80%"width="100%"></td>
+<td width="50%" align="left">
+<img src="C:\Users\LENOVO\Downloads\men3.jpg"height="145%"width="100%"></td>
+</tr>
+</table>
+</body>
+</head>
+</html>
+Kids.html
+<html>
+<head>
+<body>
+<h1><style>body{background-color:orange;font-size:300%;font-family:courier;}
+</style><center>KIDS</center></h1>
+<table width="100%">
+<tr>
+<td width="50%" align="right"><img src="C:\Users\LENOVO\Downloads\kids1.jpg"height="80%"width="100%"></td>
+<td width="50%" align="left">
+<img src="C:\Users\LENOVO\Downloads\kids2.jpg"height="145%"width="100%"></td>
+</tr>
+</table>
+</body>
+</head>
+</html>
+H2.css
+h2{background-color:orange;
+font-size:200%;
+border:5px bold black;
+padding:50px;
+font-color:black;
+}

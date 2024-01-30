@@ -1,0 +1,36 @@
+<html> 
+<head>
+<center><h1>YIMS</center></h1>
+<h1><center>YUVAKSHETRA INSTITUTE OF MANAGEMENT STUDIES</center></h1>
+<img src="C:\Users\LENOVO\Downloads\clg1.webp"width="100%"height="100%"></head>
+Yuvakshetra Institute of Management Studies is a degree-awarding college in Mundur, Palakkad district, Kerala, India. its a premier professional training college in Palakkad District, is one of the best of its kind in South India. The Sanskrit word 'Kshetra' means the place of gathering/ holy place. Here 'Yuvakshetra' represents the place of gathering and holy place of young people moulding them through professionalism, discipline and holistic development. YIMS is affiliated to the University of Calicut and managed by the Catholic Diocese of Palghat. YIMS was launched in 2005 with UG courses in Hotel Management Department. But later the institute was developed by commencing other courses in Arts & Science stream. At present there are 14 UG courses and 4 PG courses. YIMS, at its inception, was just a vocational training institute, and within a short span of time it has emerged as one of the premier higher education centers of Kerala. In an ever expanding world of knowledge, professionalism demands constant improvement in quality and competence and the college provides the scope for it. The College expands its horizon, maintaining exemplary standards like discipline and academics in higher education.<br>
+<b><center><h2>Vision</h2></center></b>
+<body>
+A centre of holistic excellence to provide the students quality and value added education to meet the challenges of tomorrow through the development of intellectual and professional competence to successfully cope with the changing world scenario as better citizens, lovers of nature and human beings of values and responsibility.<br>
+<b><center></h2>Mission</h2></center></b>
+To mould the students as professionals with skills, knowledge and wisdom to be successful in the ever changing world of science, business, industry and service with the thrust of character formation through intellectual, interpersonal, employable and value based education in a Christian atmosphere based on Constitutional values.<br>
+<b><center>Motto</center></b>
+<marquee>“Inform and Form to Transform”</b></marquee><br><br><br>
+ <ol>COURSES OFFERED</ol>
+<li>M.Com with Finance
+<li>M.Sc. Geography
+<li>M.A. English Language and Literature
+<li>M.Sc. Psychology
+<li>B.Sc. Hotel Management & Catering Science (2 Batches)
+<li>B.Sc. Hotel Management & Culinary Arts (2 Batches)
+<li>B.Com with Computer Application
+<li>B.Com with Finance (2 Batches)
+<li>B.Com Taxation
+<li>B.B.A.
+<li>B.A. English Language and Literature
+<li>B.Sc. Computer Science
+<li>B.C.A.
+<li>B.Sc. Geography
+<li>B.Sc. Psychology
+<li>B.Sc. Mathematics
+<li>B.Sc. Physics
+<li>B.Sc. Chemistry
+</ol>
+</body>
+</html>
+

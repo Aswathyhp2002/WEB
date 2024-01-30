@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<head>
+<title>Form validation using HTML and JavaScript</title>
+</head>
+ <body bgcolor="lavender">
+<h1 style="text-align: center;">VALIDATION FORM</h1>
+<center><form name="RegForm" onsubmit="return form()"method="post">
+<p>Name:<input type="text" size="" name="Name"id="userid" />  </p>  <br>
+ <p>Username:<input type="text" size="" name="Uname" /></p><br>
+<p><label for="pwd">Password:</label>
+<input type="password" id="pwd" name="pwd" minlength="8"></p><br>
+  <p>E-mail Address: <input type="text" size="" name="EMail" /></p><br>    
+<p>Phone Number:<input type="text" size="" name="Telephone" /> </p><br>
+<p> <input type="submit" value="Submit" name="Submit" />
+ <input type="reset" value="Reset" name="Reset" />
+ </p></center>
+<script>
+var a=document.form.userid.value
+if(userid==NULL)
+{
+alert('please enter the name')
+}
+else
+{
+document.form.userid.focus()
+return false
+}
+if(userid.length<5||length>12)
+{
+alert("length should be between 5 and12")
+else
+{
+document.form.userid.focus()
+return false
+}
+ </form>
+</body>
+</html>                 

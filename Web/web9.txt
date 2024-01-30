@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<script>
+function quiz(){
+    var a=0
+    if(document.getElementById("num1").checked)
+     {
+       a=a+1
+     }
+     if(document.getElementById("num2").checked)
+     {
+       a=a+1
+     }
+       if(document.getElementById("num3").checked)
+     {
+       a=a+1
+     }
+     if(document.getElementById("num4").checked)
+{
+       a=a+1
+     }
+     if(document.getElementById("num5").checked)
+     {
+       a=a+1
+     }
+alert("your score is :"+a)
+}
+</script>
+<body bgcolor="lavender";>
+<h1><center><b><u>ONLINE EXAMINATION</u></h1>
+<br><br><h2><i><u>QUESTION ONE </u></i></h2>
+   <p>What is the capital of INDIA?<br>
+   <input type="radio" name="1" value="NEW DELHI" id="num1" />NEW DELHI<br>
+   <input type="radio" name="1" value="CANBERRA" />CANBERRA<br>
+    <input type="radio" name="1" value="OTTAWA" />OTTAWA<br>
+   <input type="radio" name="1" value="BERLIN" />BERLIN<br><hr>
+<h2><i><u>QUESTION TWO</u></i></h2>
+    <p>What is 10/2?</p><br>
+      <input type="radio" name="2" value="4" />4<br>
+   <input type="radio"  name="2" value="7" />7<br>
+    <input type="radio" name="2" value="5"  id="num2" />5<br>
+   <input type="radio" name="2" value="8" />8<br><hr>
+<h2><i><u>QUESTION THREE</u></i></h2>
+   <p>3.How many minutes are there in an hour?</p><br>
+      <input type="radio" name="3"  value="89" />89<br>
+   <input type="radio" name="3"   value="78" />78<br>
+  <input type="radio" name="3"   value="60"  id="num3" />60<br>
+   <input type="radio" name="3"   value="48" />48<br><hr>
+<h2><i><u>QUESTION FOUR</u></i></h2>
+<p>4.Rainbow consist of how many colours?</p><br>
+      <input type="radio" name="4"   value="2" />2<br>
+   <input type="radio" name="4" value="9" />9<br>
+    <input type="radio" name="4" value="7"  id="num4" />7<br>
+   <input type="radio" name="4" value="8" />8<br><hr>
+<h2><i><u>QUESTION FIVE</u></i></h2>
+<p>5.How many days are there in a week?</p><br>
+      <input type="radio" name="5"  value="9" />9<br>
+   <input type="radio" name="5" value="10" />10<br>
+    <input type="radio" name="5"  value="7"  id="num5" />7<br>
+   <input type="radio" name="5"  value="8" />8<br><hr>
+   <input type="button" id = "tutorial" value="Submit" onclick = "quiz()" />
+   <hr />
+   <label id = "label"></label>
+   <script>
+   </script>
+</body>
+</html>
+</html>
+

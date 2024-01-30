@@ -1,0 +1,130 @@
+mca.html
+<html>
+<head>
+<title>mca</title>
+<body>
+<body bgcolor="silver">
+<center>
+<img src="a.png" height="300">
+</center>
+<p><a><font size="5">Master of Computer Applications (MCA) is a two-year professional post-graduate course for candidates wanting to delve deeper into the world of Computer Application development with the help of learning modern programming language. The programme is a blend of both theoretical and practical knowledge. MCA endows students’ an opportunity to work with tools meant to develop better and faster applications.</p></a></font size>
+</body>
+</head>
+</html>
+Mtech.html
+<html>
+<head>
+<title>Mtech</title>
+<body>
+<body bgcolor="yellow">
+<center>
+<h1>MASTER OF TECHNOLOGY</h1>
+</center>
+<p><a><font size="5">Full form of ME is Master of Engineering and MTech full form is Master of Technology. MTech is a professional postgraduate engineering master degree programme awarded to candidates after completion of two years of study in the discipline of engineering. This degree is predicated in a specific branch of engineering.
+In India, the MTech degree is offered across various specialisations. These specialisations include Civil Engineering, Computer Science and Engineering, Chemical Engineering, Electrical Engineering, VLSI, Mechanical Engineering, Electronics and Communication Engineering etc.</p></a></font size>
+<ul>
+<li>MTech in Biomedical Engineering</li>
+<li>MTech in Metallurgical Engineering</li>
+<li>MTech in Mechanical Engineering</li>
+<li>MTech Courses: Polymer Technology</li>
+<li>MTech in Automobile Engineering</li>
+<li>MTech in Information Technology</li>
+<li>MTech in Electrical Engineering</li>
+<li>MTech Courses: Automation and Robotics</li>
+<iframe src="mca.html" height="300" width="500">
+</ul>
+</body>
+</head>
+</html>
+
+Cources.html
+<html>
+<head>
+<title>mca</title>
+<body>
+<body>
+<center>
+<h1>COURSES</h1>
+</center>
+<h1><a href="mca.html" target="frame2">MCA</a></h1>
+<h1><a href="mtech.html" target="frame2">MTECH</a></h1>
+</body>
+</head>
+</html>
+Frame.html
+<html>
+<head>
+<title>mixedframes</title>
+<frameset rows="50%,*">
+<frame src="intro.html">
+<frameset cols="30%,*">
+<frame src="list.html">
+<frameset rows="50%,*">
+<frame src="table.html">
+<frame src="htmlframe.html">
+<no frame>
+<body>frame not working</body>
+</no frame>
+</frameset>
+</head>
+</html> 
+Intro.html
+<html>
+<head>
+<title>html intro</title>
+<body bgcolor="#c38D9E">
+<h1>htmlintro</h1>
+<h5> HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page.</h5>
+</body>
+</head>
+</html>
+List.html
+<html>
+<head>
+<title>list</title>
+<body bgcolor="#c38D9E">
+<h1>list</h1>
+<h5>HTML Lists are used to specify lists of information. All lists may contain one or more list elements. There are three different types of HTML lists: Ordered List or Numbered List (ol) Unordered List or Bulleted List (ul)</h5>
+</body>
+</head>
+</html>
+ Table.html
+<html>
+<head>
+<title>table.html</title>
+</head>
+<body bgcolor="bisque">
+<h2><center>Courses offered</center></h2>
+<table border="2" width="100%" height="50">
+<tr>
+<td><h3><center>Courses</center></h3>
+<td><h3><center>linkes</center></h3>
+<tr>
+<td><center>MCA
+<td><a href="mca.html" target="abc"><center>CLICK HERE:</center></a>
+</tr>
+<tr>
+<td><center>MBA</center>
+<td><center><a href="mba.html" target="abc">CLICK HERE:</center></a>
+</tr>
+<tr>
+<td><center>Btech</center>
+<td><a href="btech.html" target="abc"><center>CLICK HERE:</center></a>
+</tr>
+<tr>
+<td><center>Mtech</center>
+<td><a href="mtech.html" target="abc"><center>CLICK HERE:</center></a>
+</tr>
+</table>
+</body>
+</html>
+Htmlframe.html
+<html>
+<head>
+<title>frame</title>
+<body bgcolor="#c38D9E">
+<h1>frame</h1>
+<h5> HTML frames are used to divide your browser window into multiple sections where each section can load a separate HTML document. A collection of frames in the browser window is known as a frameset. The window is divided into frames in a similar way the tables are organized: into rows and columns.</h5>
+</body>
+</head>
+</html>

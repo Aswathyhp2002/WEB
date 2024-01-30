@@ -1,0 +1,37 @@
+<Html>
+<head>
+<title>login</title>
+</head>
+<body bgcolor="tan">
+<h1><center>LOGIN</center></h1>
+<CENTER><form action="" method="POST">
+<h2>Username<input type="text" name="username" placeholder="name"required></h2> 
+<h2>Password<input type="text" name="password" placeholder="pass" required></h2>
+<input type="submit" name="submit">
+</form>
+<a href="registration.php"><h3>Create an account</h3></a>
+<?php
+$servername="localhost";
+$username="root";
+$password="";
+$dbname="aswathy";
+$conn=new mysqli($servername,$username,$password,$dbname);
+if($conn->connect_error)
+{
+die("connection failed".$conn->connect_error);
+}
+if(isset($_POST['submit']))
+{
+ $username=$_POST['username'];
+$password=$_POST['password'];
+$sql="INSERT INTO login(username,password)VALUES('$username','$password')";
+$result=mysqli_query($conn,$sql);
+if($result)
+{
+echo"new record added";
+}
+else
+{
+echo mysqli_error($conn);
+}
+}?>
